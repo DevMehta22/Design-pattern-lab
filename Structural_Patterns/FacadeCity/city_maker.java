@@ -1,7 +1,5 @@
 package Structural_Patterns.FacadeCity;
 
-
-
 public class city_maker {
     private City Gujarat;
     private City Maharashtra;
