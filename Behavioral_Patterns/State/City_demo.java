@@ -11,7 +11,6 @@ public class City_demo {
         context.setState(new Delhi());
         context.showInfo();
 
-        // Change state again
         context.setState(new Manali());
         context.showInfo();
     }
